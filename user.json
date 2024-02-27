@@ -7,6 +7,7 @@
     "general" : {
         "weight":70,
         "height":170,
-        "gender":"ชาย"
+        "gender":"ชาย",
+        "food":"เนื้อผัด"
     }
 }

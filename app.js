@@ -14,3 +14,9 @@ let myObj={
 console.log(myObj.languages[0])
 console.log(myObj.general.gender)
 
+const color =["แดง","เหลือง","ขาว"]
+const allColor = ["ฟ้า","น้ำเงิน",...color]
+const newColor = ["น้ำตาล","เทา","น้ำเงิน"]
+allColor.push(...newColor)
+
+console.log(allColor);
